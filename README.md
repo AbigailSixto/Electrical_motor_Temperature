@@ -34,10 +34,11 @@ This stage model training, summarizes the content of this repository, data is do
 
 <br>
 
+### Contact Details
 
 If you are interested in this project and would like to discuss its details, please contact me directly at: 
 
-*  [Email](abisixto@gmail.com)
+*  [Email ](mailto:abisixto@gmail.com?subjet= "[GitHub] Electric Motor Temperature estimation")
 *  [Linkedin](https://www.linkedin.com/in/abigail-sixto-b4b7211b/)
 
 
@@ -94,7 +95,7 @@ After all the visualitazions and choose the predictors for our target variable a
 From the final model I could extract feature importances to show which predictors account for a higher variation of the target variable <strong>Permanent Magnet Temperature</strong>
 
 <p align="center">
-  <img src="./figures/Feature_importances.png" width=500>
+  <img src="./figures/Feature_Importances.png" width=500>
 </p>
 
 
