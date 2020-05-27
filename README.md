@@ -4,8 +4,16 @@
 The aim of this project is to apply machine learning to estimate the temperature of the rotor of a electric motor (PMSM).
 
 Most electric cars use permanent magnet synchronous motors (PMSM). The main motor components lack accurate temperature monitoring. High temperatures must be avoided at all times otherwise the consequences could be failing components like stator winding insulation which may melt and the permanent magnet could suffer from irreversible demagnetization. At the moment safe operation of the motor is ensured by oversized materials which increases production costs.
+A sufficiently accurate prediction model would therefore eliminate the need for sensor measurements to determine the permanent magnet temperature. Other methods have been used in Engineering to predict the temperature although classic thermal modelling requires expertise in Thermodynamics and suffers restrictions when applied in real time the applications  
+
+Temperature control of the elements of the motor are important as high temperatures in the permanent magnet could demagnetize it damaging the motor irreversibly.
 
 By using linear regression model we can achieve a simple model with time-invariant properties which can be directly implemented in the real time control system of the motor.
+The following figures summarize this project stages :
+
+
+![Testbench](/figures/Data Acquitation.png)
+
 
 
 If you are interested in this project and would like to discuss its details, please contact me directly at: 
