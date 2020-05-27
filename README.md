@@ -34,6 +34,7 @@ This stage model training, summarizes the content of this repository, data is do
 
 <br>
 
+### Contact Details
 
 If you are interested in this project and would like to discuss its details, please contact me directly at: 
 
