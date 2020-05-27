@@ -38,7 +38,7 @@ This stage model training, summarizes the content of this repository, data is do
 
 If you are interested in this project and would like to discuss its details, please contact me directly at: 
 
-*  [Email ](mailto:abisixto@gmail.com?subjet=[GitHub]%20Source%20Han%20Sans)
+*  [Email ](mailto:abisixto@gmail.com?subjet= "[GitHub] Electric Motor Temperature estimation")
 *  [Linkedin](https://www.linkedin.com/in/abigail-sixto-b4b7211b/)
 
 
