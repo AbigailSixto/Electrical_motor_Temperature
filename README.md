@@ -94,7 +94,7 @@ After all the visualitazions and choose the predictors for our target variable a
 From the final model I could extract feature importances to show which predictors account for a higher variation of the target variable <strong>Permanent Magnet Temperature</strong>
 
 <p align="center">
-  <img src="./figures/Feature_importances.png" width=500>
+  <img src="./figures/Feature_Importances.png" width=500>
 </p>
 
 
